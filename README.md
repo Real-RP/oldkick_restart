@@ -1,4 +1,4 @@
-# kick_restart
+# oldkick_restart
 clear -master from foldername
 
 
